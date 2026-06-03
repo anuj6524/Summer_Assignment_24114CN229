@@ -7,6 +7,3 @@
 - [ ] DAY3
 - [ ] DAY4
 - [ ] DAY5
-- [ ] DAY6
-- [ ] DAY7
-- [ ] DAY8
