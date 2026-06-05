@@ -6,7 +6,7 @@
 - [x] DAY1
 - [x] DAY2
 - [x] DAY3
-- [ ] DAY4
+- [x] DAY4
 - [ ] DAY5
 
 ### WEEK2
